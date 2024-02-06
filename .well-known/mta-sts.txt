@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: stjosephsrc-essex-sch-uk0e.mail.protection.outlook.com
+max_age: 604800
